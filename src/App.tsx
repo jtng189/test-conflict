@@ -18,10 +18,10 @@ function App() {
       )
   })
 
+  console.log("This is a change that I added");
+
   return (
-    <div>
       {restaurantsList}
-    </div>
   );
 }
 
