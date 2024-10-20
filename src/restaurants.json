@@ -1,0 +1,102 @@
+[
+    {
+        "name": "The Gourmet Corner",
+        "description": "A cozy corner offering fusion cuisine with a modern twist.",
+        "rating": 4.5,
+        "reviews": [
+            "Fantastic food and ambiance!",
+            "The chef's special was out of this world.",
+            "A bit pricey, but worth every penny."
+        ]
+    },
+    {
+        "name": "Ocean's Delight",
+        "description": "Seafood lovers' paradise with fresh catches served daily.",
+        "rating": 4.7,
+        "reviews": [
+            "The grilled salmon was perfection.",
+            "I loved the clam chowder!",
+            "Great location near the harbor."
+        ]
+    },
+    {
+        "name": "Spice Route",
+        "description": "Authentic Indian cuisine with a wide variety of spices and flavors.",
+        "rating": 4.6,
+        "reviews": [
+            "Best butter chicken in town!",
+            "Wonderful ambiance and attentive staff.",
+            "The spices are spot on, but can be a little too hot for some."
+        ]
+    },
+    {
+        "name": "Bella Italia",
+        "description": "Traditional Italian restaurant serving classic pasta and pizza dishes.",
+        "rating": 4.3,
+        "reviews": [
+            "The margherita pizza was delicious!",
+            "Loved the family-friendly atmosphere.",
+            "Good food but the service could be faster."
+        ]
+    },
+    {
+        "name": "Vegan Vibes",
+        "description": "Plant-based dishes crafted with fresh, organic ingredients.",
+        "rating": 4.8,
+        "reviews": [
+            "A haven for vegans and health-conscious eaters.",
+            "The jackfruit tacos were a revelation!",
+            "Great to see so many vegan dessert options."
+        ]
+    },
+    {
+        "name": "Sakura Blossom",
+        "description": "A serene Japanese restaurant specializing in sushi and ramen.",
+        "rating": 4.9,
+        "reviews": [
+            "The sushi is so fresh and beautifully presented.",
+            "Best ramen I've had outside of Japan!",
+            "Service was top-notch and very friendly."
+        ]
+    },
+    {
+        "name": "Burger Haven",
+        "description": "Casual spot for gourmet burgers and craft beers.",
+        "rating": 4.4,
+        "reviews": [
+            "Juicy burgers with tons of options!",
+            "Perfect place for a laid-back dinner.",
+            "The truffle fries are a must-try."
+        ]
+    },
+    {
+        "name": "Taco Fiesta",
+        "description": "Mexican street food with a vibrant and fun atmosphere.",
+        "rating": 4.6,
+        "reviews": [
+            "The tacos al pastor are amazing!",
+            "Great margaritas and even better food.",
+            "The music can get loud, but it's part of the vibe."
+        ]
+    },
+    {
+        "name": "Mediterraneo",
+        "description": "Offering a mix of Mediterranean cuisines, with dishes from Greece, Italy, and Spain.",
+        "rating": 4.7,
+        "reviews": [
+            "Loved the mezze platter and the grilled octopus.",
+            "Great variety of dishes from around the Mediterranean.",
+            "The sangria was excellent!"
+        ]
+    },
+    {
+        "name": "Farmhouse Deli",
+        "description": "Rustic deli offering fresh sandwiches, soups, and salads.",
+        "rating": 4.2,
+        "reviews": [
+            "Perfect spot for a quick and healthy lunch.",
+            "The sandwiches are fresh and packed with flavor.",
+            "Could use more seating, but still a great find."
+        ]
+    }
+]
