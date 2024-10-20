@@ -21,6 +21,11 @@ function App() {
   console.log("This is a change that I added");
 
   return (
+<<<<<<< HEAD
+    <div>
+      <p>HELLO???</p>
+=======
+>>>>>>> b2847eb649f8a671e54749e85184fb484350ede8
       {restaurantsList}
   );
 }
